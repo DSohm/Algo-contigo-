@@ -2,7 +2,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que dirias que si Lu <3 uwu')
+    alert('Eres mi suerte Lu <3 ')
 });
 
 yesBtn.addEventListener('mouseover',function (event) {
