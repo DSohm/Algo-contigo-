@@ -79,12 +79,12 @@ body
 .contenedor{
     background: rgb(0, 0, 0);
     width: 110vw;
-    height:225vh;
+    height:325vh;
     text-align: center;
 }
 
 p{
-    font-size: xx-large;
+    font-size: x-large;
     color:white ;
       font-family:'Open Sans';
     padding:10px;
